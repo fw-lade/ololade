@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "gatsby";
 import { FaGithub, FaAt, FaTwitter } from "react-icons/fa";
 import { BsArrowUpRight } from "react-icons/bs";
-import avi from "../images/toshiro-new-avi.jpeg";
+import avi from "../images/avi.jpg";
 const routes = [
   {
     to: "",
@@ -45,7 +45,7 @@ const DesktopIntro = ({ active }) => {
           </span>{" "}
           and a fervent commitment to crafting{" "}
           <span className="animate-flash text-white opacity-90">
-            robust, user-centric solutions from frontend to backend
+            robust, user-centric solutions from frontend
           </span>
           .
         </p>
