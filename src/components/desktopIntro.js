@@ -25,27 +25,34 @@ const DesktopIntro = ({ active }) => {
         <h1 className="mb-2.5 text-4xl font-bold">
           Hello, <br /> I&apos;m Ololade Bello.
         </h1>
-        <p className="break-all text-sm leading-loose text-dark-grey">
-          I am a{" "}
-          <span className="animate-flash text-white opacity-90">versatile</span>{" "}
-          <span className="animate-flashTwo text-white opacity-90">
-            and innovative
-          </span>{" "}
-          <span className="animate-flash text-white opacity-90">frontend</span>{" "}
-          <span className="animate-flashTwo text-white opacity-90">
-            developer
+        <p className=" text-sm leading-loose text-dark-grey">
+          I am a
+          <span className="animate-flash text-white opacity-90">
+            {" "}
+            versatile{" "}
           </span>
-          , distinguished by an{" "}
-          <span className="animate-flash text-white opacity-90">
-            insatiable curiosity
-          </span>{" "}
-          for{" "}
           <span className="animate-flashTwo text-white opacity-90">
-            cutting-edge technologies
-          </span>{" "}
-          and a fervent commitment to crafting{" "}
+            frontend{" "}
+          </span>
+          <span className="animate-flashTwo text-white opacity-90">
+            developer{" "}
+          </span>
+          with a passion{" "}
           <span className="animate-flash text-white opacity-90">
-            robust, user-centric solutions from frontend
+            for cutting-edge technologies,{" "}
+          </span>
+          dedicated to{" "}
+          <span className="animate-flashTwo text-white opacity-90">
+            crafting robust,{" "}
+          </span>
+          {/* <span className="animate-flash text-white opacity-90"> */}
+          user-centric solutions that{" "}
+          <span className="animate-flashTwo text-white opacity-90">
+            enhance user experience{" "}
+          </span>
+          and deliver{" "}
+          <span className="animate-flash text-white opacity-90">
+            innovative web applications
           </span>
           .
         </p>

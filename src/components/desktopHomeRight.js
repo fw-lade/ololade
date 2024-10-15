@@ -130,7 +130,7 @@ const DesktopHomeRight = () => {
             REACT + GIT + CHAKRA UI + REST API + FLUTTERWAVE
           </p>
           <p className="my-3 min-h-[5rem] text-xs font-semibold tracking-wider text-dark-grey md:h-16">
-            developed a booking platform for Lovepontoon, enabling users to book
+            Developed a booking platform for Lovepontoon, enabling users to book
             pool experiences for events and activities. The platform includes
             secure payment processing and automated email notifications based on
             user bookings. I also created an admin dashboard to manage all

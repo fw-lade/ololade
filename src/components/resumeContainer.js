@@ -19,7 +19,7 @@ const DesktopResumeContainer = () => {
             <span className="hidden md:flex">LinkedIn</span>
           </a>
           <a
-            href=""
+            href="https://drive.google.com/file/d/1sUetodk6X1xpIWzJ22X1CX-QDHx7CvHV/view?usp=drive_link"
             // GOOGLE DRIVE RESUME LINK
             target="_blank"
             download
@@ -41,15 +41,20 @@ const DesktopResumeContainer = () => {
       <p>
         HTML, CSS, Bootstrap, JavaScript, Tailwind, React, RESTful API, Web
         Application development, Web Design, User Experience, Git, Github, Web
-        Hosting, Python, Adobe Photoshop
+        Hosting.
       </p>
+      <h3 className="my-4 flex items-center font-semibold text-e2e2e2">
+        <p className="mr-2.5 font-[Andika] capitalize">Extras</p>
+        <span className="h-px grow bg-[#77777859]"></span>
+      </h3>
+      <p>Python, Microsoft Office, Adobe photoshop.</p>
       <h3 className="my-4 flex items-center font-semibold text-e2e2e2">
         <p className="mr-2.5 font-[Andika] capitalize">Soft Skills</p>
         <span className="h-px grow bg-[#77777859]"></span>
       </h3>
       <p className="text-[0.8rem]">
         Good Communication, Teamwork, Critical Thinking, Adaptability, Solving
-        Skills, Decision-making, Consistent, Creativity, Emotional intelligence
+        Skills, Decision-making, Consistent, Creativity, Emotional intelligence.
       </p>
 
       {/* ***************** WORK STARTS HERE *********** */}
