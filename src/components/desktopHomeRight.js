@@ -128,13 +128,14 @@ const DesktopHomeRight = () => {
             SPIN DESIGNS
           </h3>
           <p className="mb-3 mt-1 text-xs font-semibold leading-5 tracking-wider text-light-grey">
-            REACT + CHAKRA UI + PARTICLES JS + AOS + EMAIL JS
+            REACT + CHAKRA UI + PARTICLES JS + AOS
           </p>
           <p className="my-3 min-h-[5rem] text-xs font-semibold tracking-wider text-dark-grey md:h-16">
-            Developed a responsive portfolio website to showcase a designer's
-            work, featuring a clean and user-friendly interface. The website was
-            optimized for fast loading times and smooth navigation across
-            devices, ensuring a seamless user experience.
+            Co-developed a dynamic website for a design agency specializing in
+            web design, development, and digital strategy. The website
+            highlights the agency's portfolio, showcasing completed projects
+            across various industries, and provides an intuitive contact
+            interface for prospective clients to easily initiate new projects.
           </p>
           <div className="my-8 flex items-center gap-x-4">
             <a
