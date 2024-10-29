@@ -19,7 +19,7 @@ const DesktopResumeContainer = () => {
             <span className="hidden md:flex">LinkedIn</span>
           </a>
           <a
-            href="https://drive.google.com/file/d/1sUetodk6X1xpIWzJ22X1CX-QDHx7CvHV/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1_I0XD7LjjS2s0sDy0ps-SMYtEKL_-0bb/view?usp=drive_link"
             // GOOGLE DRIVE RESUME LINK
             target="_blank"
             download
