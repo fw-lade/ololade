@@ -26,7 +26,7 @@ const DesktopHomeRight = () => {
           </p>
           <div className="my-8 flex items-center gap-x-4">
             <a
-              href="https://icanabeokuta.org/"
+              href="https://icanabeokutadistrict.com/"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-start gap-x-1 text-xs text-light-grey hover:text-white"
@@ -101,7 +101,7 @@ const DesktopHomeRight = () => {
           </p>
           <div className="my-8 flex items-center gap-x-4">
             <a
-              href="https://genesis360-dashboard-test.netlify.app/"
+              href="https://admin-portal.genesis360.com.ng/"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-start gap-x-1 text-xs text-light-grey hover:text-white"
