@@ -145,7 +145,7 @@ const DesktopHomeRight = () => {
               className="inline-flex items-center justify-start gap-x-1 text-xs text-light-grey hover:text-white"
             >
               <BsArrowUpRight className="text-sm opacity-70" />{" "}
-              <span>Live</span>
+              <span>Still in production</span>
             </a>
             {/* <a
               href="https://github.com/Goddy01/Refnet"
