@@ -39,7 +39,7 @@ const DesktopResumeContainer = () => {
         <span className="h-px grow bg-[#77777859]"></span>
       </h3>
       <p>
-        HTML, CSS, Bootstrap, JavaScript, Tailwind, React, RESTful API, Web
+        HTML, CSS, Bootstrap, JavaScript, React JS, TypeScript, Next JS, RESTful API, Web
         Application development, Web Design, User Experience, Git, Github, Web
         Hosting.
       </p>
@@ -92,7 +92,7 @@ const DesktopResumeContainer = () => {
       </p>
       <p className="my-3 ml-[5px] text-xs">MARCH 2024 - PRESENT</p>
       <ul className="list-box my-3 space-y-2">
-        <li>Trained over 10 students on front-end development skills.</li>
+        <li>Trained over 12 students on front-end development skills.</li>
         <li>
           Provided mentorship and guidance to students during and after the
           training, offering support in portfolio development, job preparation,
