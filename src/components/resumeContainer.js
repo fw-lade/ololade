@@ -19,7 +19,7 @@ const DesktopResumeContainer = () => {
             <span className="hidden md:flex">LinkedIn</span>
           </a>
           <a
-            href="https://drive.google.com/file/d/1_I0XD7LjjS2s0sDy0ps-SMYtEKL_-0bb/view?usp=drive_link"
+            href=""
             // GOOGLE DRIVE RESUME LINK
             target="_blank"
             download
@@ -39,7 +39,7 @@ const DesktopResumeContainer = () => {
         <span className="h-px grow bg-[#77777859]"></span>
       </h3>
       <p>
-        HTML, CSS, Bootstrap, JavaScript, React JS, TypeScript, Next JS, RESTful API, Web
+        HTML, CSS, Bootstrap, JavaScript, React JS, TypeScript, Next JS, Redux Toolkit, RESTful API, Web
         Application development, Web Design, User Experience, Git, Github, Web
         Hosting.
       </p>
@@ -66,7 +66,7 @@ const DesktopResumeContainer = () => {
       <p className="text-base text-white">
         Spin Designs - <i>Frontend Developer</i>
       </p>
-      <p className="my-3 ml-[5px] text-xs">MARCH 2024 - PRESENT</p>
+      <p className="my-3 ml-[5px] text-xs">MARCH 2024 - JANUARY 2025</p>
       <ul className="list-box my-3 space-y-2">
         <li>
           Effectively converted Figma designs into fully functional web
@@ -90,7 +90,7 @@ const DesktopResumeContainer = () => {
       <p className="text-base text-white">
         DevCent - <i>Frontend Development Instructor</i>
       </p>
-      <p className="my-3 ml-[5px] text-xs">MARCH 2024 - PRESENT</p>
+      <p className="my-3 ml-[5px] text-xs">MARCH 2024 - JANUARY 2025</p>
       <ul className="list-box my-3 space-y-2">
         <li>Trained over 12 students on front-end development skills.</li>
         <li>
