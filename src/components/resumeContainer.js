@@ -64,7 +64,7 @@ const DesktopResumeContainer = () => {
         <span className="h-px grow bg-[#77777859]"></span>
       </h3>
       <p className="text-base text-white">
-        Parrhesia Nig. Ltd. | Nomase MFB - 
+        Parrhesia Nig. Ltd. | Nomase MFB -
         <i> Frontend Developer & IT Suport Officer</i>
       </p>
       <p className="my-3 ml-[5px] text-xs">MARCH 2025 - PRESENT</p>
@@ -131,6 +131,16 @@ const DesktopResumeContainer = () => {
           concepts.
         </li>
       </ul>
+
+      <h3 className="my-4 flex items-center text-[0.8rem] font-semibold text-e2e2e2">
+        <p className="mr-3 basis-1/12 font-[Andika] capitalize">Education</p>
+        <span className="h-px basis-10/12 bg-[#77777859]"></span>
+      </h3>
+      <p className="text-[1rem]">
+        Caleb University, Lagos — BSc. Computer Science (Second Class Upper
+        Division)
+      </p>
+
       <h3 className="my-4 flex items-center text-[0.8rem] font-semibold text-e2e2e2">
         <p className="mr-3 basis-1/12 font-[Andika] capitalize">Projects</p>
         <span className="h-px basis-10/12 bg-[#77777859]"></span>
