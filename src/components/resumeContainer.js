@@ -39,9 +39,9 @@ const DesktopResumeContainer = () => {
         <span className="h-px grow bg-[#77777859]"></span>
       </h3>
       <p>
-        HTML, CSS, Bootstrap, JavaScript, React JS, TypeScript, Next JS, Redux
-        Toolkit, RESTful API, Web Application development, Web Design, User
-        Experience, Git, Github, Web Hosting, Supabase, Clerk.
+        HTML, CSS, Bootstrap, JavaScript, React JS, TypeScript, Next JS, React
+        Native, Redux Toolkit, RESTful API, Web Application development, Web
+        Design, User Experience, Git, Github, Web Hosting, Supabase, Clerk.
       </p>
       <h3 className="my-4 flex items-center font-semibold text-e2e2e2">
         <p className="mr-2.5 font-[Andika] capitalize">Extras</p>
@@ -63,6 +63,32 @@ const DesktopResumeContainer = () => {
         <p className="mr-2.5 font-[Andika] capitalize">Work Experience</p>
         <span className="h-px grow bg-[#77777859]"></span>
       </h3>
+      <p className="text-base text-white">
+        Parrhesia Nig. Ltd. | Nomase MFB - 
+        <i> Frontend Developer & IT Suport Officer</i>
+      </p>
+      <p className="my-3 ml-[5px] text-xs">MARCH 2025 - PRESENT</p>
+      <ul className="list-box my-3 space-y-2">
+        <li>
+          Provide IT support, troubleshooting software/hardware issues and
+          maintaining system and network uptime.
+        </li>
+        <li>
+          Collaborated with backend developers to integrate RESTful APIs,
+          enabling dynamic content and smooth functionality.
+        </li>
+        <li>Assisted staff with technical issues, cutting downtime by 20%.</li>
+        <li>
+          Developed and deployed a responsive website, internet banking
+          platform, and mobile banking app, enhancing customer accessibility and
+          digital experience.
+        </li>
+        <li>
+          Contributed to improving digital banking interfaces for better
+          usability and customer experience.
+        </li>
+      </ul>
+
       <p className="text-base text-white">
         Spin Designs - <i>Frontend Developer</i>
       </p>

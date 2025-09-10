@@ -1,6 +1,5 @@
 import React from "react";
 import { BsArrowUpRight } from "react-icons/bs";
-import { FaEye, FaCodeBranch, FaCube } from "react-icons/fa";
 
 const DesktopHomeRight = () => {
   return (
@@ -151,7 +150,7 @@ const DesktopHomeRight = () => {
         </div>
       </div> */}
 
-      <div className="darken flex flex-col gap-y-8 md:gap-y-3">
+      {/* <div className="darken flex flex-col gap-y-8 md:gap-y-3">
         <div className="flex flex-col bg-box-bg p-10 transition-all duration-300 md:hover:scale-110">
           <h3 className="text-[1.3rem] font-semibold text-white">
             LovePontoon
@@ -178,17 +177,10 @@ const DesktopHomeRight = () => {
               <BsArrowUpRight className="text-sm opacity-70" />{" "}
               <span>Live</span>
             </a>
-            {/* <a
-              href="https://github.com/Goddy01/Refnet"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="flex items-center gap-x-1 text-xs text-light-grey hover:text-white"
-            >
-              <FaCodeBranch /> <span>Frontend</span>
-            </a> */}
+            
           </div>
         </div>
-      </div>
+      </div> */}
 
       <div className="darken flex flex-col gap-y-8 md:gap-y-3">
         <div className="flex flex-col bg-box-bg p-10 transition-all duration-300 md:hover:scale-110">
